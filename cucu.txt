@@ -1,1 +1,3 @@
 tu sa bau afara
+
+echo "ana are mere"
